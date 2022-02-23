@@ -1,1 +1,0 @@
-document.getElementById('korir').innerHTML="welcome korir";
